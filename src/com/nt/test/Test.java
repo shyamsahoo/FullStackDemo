@@ -7,5 +7,7 @@ public class Test {
 		
 		Xyz xyz = new Xyz();
 		xyz.m1();
+		
+		System.out.println("Hello World");
 	}
 }
